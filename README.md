@@ -1,1 +1,2 @@
 # PML_CourseProject
+# To see the htlm document you need to download the full repo using the option dowload ZIP, in the Clone or dowload green button, on the top right corner. If you open it directly on github you can see the source html, but not the document itself. Thanks
